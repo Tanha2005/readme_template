@@ -2,5 +2,6 @@ this is day1.new data
 ok ..ok ok ....chng chng
 
 this is local
+logo alaiment added
  
 succesfully made new branch
